@@ -7,7 +7,7 @@ import Home from './pages/home/Home'
 import Details from './pages/details/Details'
 import SearchResult from './pages/searchResult/SearchResult'
 import Explore from './pages/explore/Explore'
-import PageNotFund from './pages/404/pageNotFund'
+import PageNotFund from './pages/404/PageNotFund'
 import Header from './components/header/Header'
 import Footer from './components/Footer/Footer'
 
